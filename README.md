@@ -1,4 +1,4 @@
-![LOGO](https://github.com/poriyaprakash/poriyaprakash/blob/main/banner.png)
+![LOGO](https://github.com/poriyaprakash/poriyaprakash/blob/main/banner1.png)
 <h1 align="center">Hi 👋, I'm Prakash Poriya</h1>
 <h3 align="center">A passionate react native app developer from India</h3>
 
